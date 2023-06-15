@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Adriano, mas pode me chamar de Drics 😉
 
-- 🔭 Hoje trabalho como analista de suporte.
+- 🔭 Hoje trabalho como analista QA.
 - 🌱 Estudante de JavaScript, React, HTML e CSS.
 <div align="center">
   <a href="https://github.com/Dricss">
