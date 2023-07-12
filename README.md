@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Adriano, mas pode me chamar de Drics 😉
 
 - 🔭 Hoje trabalho como analista QA.
-- 🌱 Estudante de JavaScript, React, HTML e CSS.
+- 🌱 Estudante de JavaScript, React, HTML, CSS, Tailwind e Next.js.
 <div align="center">
   <a href="https://github.com/Dricss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dricss&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
